@@ -1,6 +1,6 @@
 # aws-common
 
 ## AWS CLI Commands
-[[aws-cli]]
+[[aws-cli.md]]
 
 ## AWS Experiments
